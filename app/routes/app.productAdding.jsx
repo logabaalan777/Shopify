@@ -17,7 +17,9 @@ export default function AdditionalPage() {
             <Layout>
                 <Layout.Section>
                     <Card>
-
+                        <div>
+                            <p>Product adding page</p>
+                        </div>
                     </Card>
                 </Layout.Section>
             </Layout>
